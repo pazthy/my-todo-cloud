@@ -13,5 +13,5 @@ COPY . .
 # i.e. this instruction does not do anything more than info
 EXPOSE 3000
 
-CMD ["npm", "start"]
+CMD ["npm","start"]
 
